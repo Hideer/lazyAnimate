@@ -1,0 +1,12 @@
+{
+  "name": "lazyani",
+  "version": "1.0.1-0",
+  "description": "a lazy animate plug",
+  "main": "index.js",
+  "author": "yu_meng_cheng@163.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ynqc/toast.git"
+  }
+}
