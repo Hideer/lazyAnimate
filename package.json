@@ -7,6 +7,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:ynqc/toast.git"
+    "url": "git@github.com:Hideer/lazyAnimate.git"
+  },
+  "scripts": {
+    "beta": "rm -f package-lock.json && npm version prerelease && npm publish --tag beta"
   }
 }
